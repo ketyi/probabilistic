@@ -1,1 +1,1 @@
-# probablistic
+# probabilistic
